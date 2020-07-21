@@ -1,0 +1,29 @@
+.bd{
+	background-color:#000000;
+	margin:0;
+	padding:0;
+}
+/*.cbox{
+	height:100%;
+	border:2px solid #ff0000;
+}
+.dbox{
+	height:100%;
+	display:inline-block;
+	position: relative;
+	 -ms-transform: scale(0.9); 
+          -webkit-transform: scale(0.9); 
+          transform: scale(0.9);
+}*/
+.map iframe{
+position:relative;
+display:inline-block;
+height:90vh;
+padding:20px;
+}
+.h4 a{
+	color:#ff0000;
+}
+.bs .btn{
+	padding:0px;
+}

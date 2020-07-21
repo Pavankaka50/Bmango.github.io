@@ -1,0 +1,18 @@
+.cbox{
+	border:3px solid #3CB371 ;
+	height:100%;
+}
+.dbox{
+	 border:2px solid #3CB371;
+	 background-color:#A9A9A9;
+	 padding:1em;
+}
+.dbox:hover{
+	transition:transform .1s;
+          -ms-transform: scale(0.9); /* IE 9 */
+          -webkit-transform: scale(0.9); /* Safari 3-8 */
+          transform: scale(0.9);   
+}
+.bg{
+	background-color:#3CB371;
+}

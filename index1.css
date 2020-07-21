@@ -1,0 +1,123 @@
+.bg{
+	background-color:#17202e;
+     /*background-color:#1a4021;*/
+    /*background-image:url("images/image20.gif");
+    background-repeat:no-repeat;
+    background-size:cover;*/
+	
+  
+}
+.mq h2{
+	color:#ff0000;
+}
+.h2{
+	color:#ff0000;
+	text-align:center;
+	padding:10px;
+}
+.cbox{
+	height:100%;
+	/*border:2px solid #ff0000;*/
+}
+.dbox{
+	
+	 color:#ffffff;
+	 padding:1em;
+	 background-color: #ffffff;
+	 -ms-transform: scale(0.8); /* IE 9 */
+          -webkit-transform: scale(0.8); /* Safari 3-8 */
+          transform: scale(0.8);   
+}
+.dbox h3{
+	color:#ff0000;
+}
+.bs{
+	text-align: center;
+}
+.bs .btn{
+	color:#ffffff;
+}
+.bs .btn:hover{
+ background-color:#14ba36;
+}
+.dbox:hover{
+	
+	background-color:#FFFFFF;
+	-ms-transform: scale(0.9); 
+          -webkit-transform: scale(0.9); 
+          transform: scale(0.9); 
+         
+}
+.dbox p{
+	color:#000000;
+}
+.hp a{
+	color:#ff0000;
+}
+.ft{
+	min-height:100 px;
+	padding:10px;
+	color:#ffffff;
+	text-align: center;
+	background-color:#2F4F4F;
+}
+.ft h3{
+	color:#ff0000;
+}
+.ft a:hover{
+	color:#ff0000;
+}
+ .dbox h4{
+	color:#17202e;
+	text-align:center;
+}
+/*.btn-group .btn:hover{
+        background-color:#3aa61f;
+        color:#ffffff;
+    }
+    .btn-group {
+         width:50%;
+         background-color:#000000;
+    } 
+    .btn-group .btn{
+      background-color:#000000;
+    }*/
+    .p i{
+    	color:#ffffff;
+    }
+/*.navbar{
+	background-color:#000000;
+	min-height:100px;
+	color:#ff0000;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	color:#424bf5;
+    font-size: 20px;
+    
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color:#217008;
+
+}*/
+ .btn-group li{
+               	 list-style: none;
+	            display: inline-block;
+               }
+               .btn-group li a{
+               	text-decoration: none;
+               	position:relative;
+               	font-size:15px;
+               	font-weight: 700;
+               	font-family:sans-serif;
+               	display:block;
+               	overflow: hidden;
+               	transition:0.6s all;
+                 	padding:5px 15px;
+               	text-transform: uppercase;
+
+               }
+               .btn-group .btn{
+                 background-color:#000000;
+               }
+
+

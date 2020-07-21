@@ -1,0 +1,117 @@
+.bg{
+	/*background-color:#2F4F4F;*/
+background:url("images/image30.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+		font-size:15px;
+	line-height: 1.5;
+	padding:0;
+	margin:0;
+	height:100%;
+	}
+	.p i{
+		color:#ffffff;
+	}
+.mq{
+	text-align: center;
+	color:#ff0000;
+}
+.mg {
+	-ms-transform: scale(0.95); 
+          -webkit-transform: scale(0.95); 
+          transform: scale(0.95); 
+}
+.mg h2{
+	color:#ff0000;
+}
+.cbox{
+	/*border:2px solid #ff0000;*/
+     height:100%;
+}
+ .mg{
+	 display: inline-block;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+ }
+.mg img{
+	width: auto;
+  height: 100%;
+  margin-left: -50px;
+}
+.mg{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+.dbox{
+	/*height:500px;*/
+	 background-image:url("images/image7.jpg");
+	 background-repeat:no-repeat;
+	 background-size:cover;
+	 -ms-transform: scale(0.9); 
+          -webkit-transform: scale(0.9); 
+          transform: scale(0.9);  
+}
+.ls{
+
+	color:#03fc4e;
+   text-align: center;
+	
+}
+.ls:hover{
+	color:#ffffff;
+}
+.center{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+}
+.ls1{
+     color:#ffffff;
+	text-align:center;
+}
+.ft{
+	min-height:200px;
+	text-align:center;
+	padding:10px;
+	background-color:#20B2AA;
+	color:#000000;
+}
+.ft h2{
+	color:#ff0000;
+}
+                /*.btn-group li{
+               	 list-style: none;
+	            display: inline-block;
+               }
+               .btn-group li a{
+               	text-decoration: none;
+               	position:relative;
+               	font-size:30px;
+               	font-weight: 700;
+               	font-family:sans-serif;
+               	display:block;
+               	overflow: hidden;
+               	transition:0.6s all;
+                 	padding:5px 10px;
+               	text-transform: uppercase;
+
+               }
+               .btn-group .btn{
+                 background-color:#000000;
+               }*/
+.ft a{
+	color:#00008B;
+}
+.ft a:hover{
+	color:#ff0000;
+}
+.title{
+	color:#ff0000;
+}
